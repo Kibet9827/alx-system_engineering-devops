@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# a Bash script COPY of 6-stop_me_if_you_can
+# kills the 7-highlander process instead of the 4-to_infinity_and_beyon
+pkill -f 7-highlander
